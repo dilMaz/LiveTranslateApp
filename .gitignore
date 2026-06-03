@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+videos/*.mp4
+videos/*.mkv
+
+transcripts/*.txt
+translations/*.txt
+subtitles/*.srt
